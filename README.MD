@@ -1,1 +1,1 @@
-Static Website Example
+# Static Website Example
